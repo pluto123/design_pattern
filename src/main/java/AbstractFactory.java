@@ -8,7 +8,7 @@ public class AbstractFactory {
         DEFAULT, MS, MAC
     }
 
-    private static Platform mPlatform = Platform.MS;
+    private static final Platform mPlatform = Platform.MS;
 
     private static WidgetFactory mWidgetFactory;
 
