@@ -1,4 +1,4 @@
-package tw.com.pluto.product;
+package tw.com.pluto.builder.product;
 
 public class Computer {
     String cpu;

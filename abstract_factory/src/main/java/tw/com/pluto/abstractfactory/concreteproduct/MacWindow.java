@@ -1,6 +1,6 @@
-package tw.com.pluto.concreteproduct;
+package tw.com.pluto.abstractfactory.concreteproduct;
 
-import tw.com.pluto.abstractproduct.Window;
+import tw.com.pluto.abstractfactory.abstractproduct.Window;
 
 public class MacWindow implements Window {
 

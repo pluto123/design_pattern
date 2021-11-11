@@ -1,4 +1,4 @@
-package tw.com.pluto.abstractproduct;
+package tw.com.pluto.abstractfactory.abstractproduct;
 
 public interface ScrollBar {
     public enum Direction {

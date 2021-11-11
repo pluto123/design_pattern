@@ -1,7 +1,7 @@
-import tw.com.pluto.abstractfactory.WidgetFactory;
-import tw.com.pluto.client.GuiCreator;
-import tw.com.pluto.concretefactory.MacWidgetFactory;
-import tw.com.pluto.concretefactory.MsWidgetFactory;
+import tw.com.pluto.abstractfactory.abstractfactory.WidgetFactory;
+import tw.com.pluto.abstractfactory.client.GuiCreator;
+import tw.com.pluto.abstractfactory.concretefactory.MacWidgetFactory;
+import tw.com.pluto.abstractfactory.concretefactory.MsWidgetFactory;
 
 public class AbstractFactory {
     private enum Platform {

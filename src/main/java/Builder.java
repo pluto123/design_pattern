@@ -1,8 +1,8 @@
-import tw.com.pluto.builder.ComputerBuilder;
-import tw.com.pluto.concrete.builder.AmdComputerBuilder;
-import tw.com.pluto.concrete.builder.IntelComputerBuilder;
-import tw.com.pluto.director.Director;
-import tw.com.pluto.product.Computer;
+import tw.com.pluto.builder.builder.ComputerBuilder;
+import tw.com.pluto.builder.concretebuilder.AmdComputerBuilder;
+import tw.com.pluto.builder.concretebuilder.IntelComputerBuilder;
+import tw.com.pluto.builder.director.Director;
+import tw.com.pluto.builder.product.Computer;
 
 public class Builder {
     private enum Brand {

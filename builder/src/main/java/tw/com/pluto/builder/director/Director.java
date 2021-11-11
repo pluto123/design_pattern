@@ -1,7 +1,7 @@
-package tw.com.pluto.director;
+package tw.com.pluto.builder.director;
 
-import tw.com.pluto.builder.ComputerBuilder;
-import tw.com.pluto.product.Computer;
+import tw.com.pluto.builder.builder.ComputerBuilder;
+import tw.com.pluto.builder.product.Computer;
 
 public class Director {
     private ComputerBuilder computerBuilder;

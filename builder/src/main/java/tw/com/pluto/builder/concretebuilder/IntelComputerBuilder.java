@@ -1,7 +1,7 @@
-package tw.com.pluto.concrete.builder;
+package tw.com.pluto.builder.concretebuilder;
 
-import tw.com.pluto.builder.ComputerBuilder;
-import tw.com.pluto.product.Computer;
+import tw.com.pluto.builder.builder.ComputerBuilder;
+import tw.com.pluto.builder.product.Computer;
 
 public class IntelComputerBuilder extends ComputerBuilder {
     @Override

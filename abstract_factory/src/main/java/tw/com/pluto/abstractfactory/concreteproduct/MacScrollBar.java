@@ -1,6 +1,6 @@
-package tw.com.pluto.concreteproduct;
+package tw.com.pluto.abstractfactory.concreteproduct;
 
-import tw.com.pluto.abstractproduct.ScrollBar;
+import tw.com.pluto.abstractfactory.abstractproduct.ScrollBar;
 
 public class MacScrollBar implements ScrollBar {
 

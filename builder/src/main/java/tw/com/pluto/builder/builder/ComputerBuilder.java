@@ -1,6 +1,6 @@
-package tw.com.pluto.builder;
+package tw.com.pluto.builder.builder;
 
-import tw.com.pluto.product.Computer;
+import tw.com.pluto.builder.product.Computer;
 
 public abstract class ComputerBuilder {
     protected Computer computer;

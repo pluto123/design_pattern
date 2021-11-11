@@ -1,10 +1,10 @@
-package tw.com.pluto.concretefactory;
+package tw.com.pluto.abstractfactory.concretefactory;
 
-import tw.com.pluto.abstractfactory.WidgetFactory;
-import tw.com.pluto.abstractproduct.ScrollBar;
-import tw.com.pluto.abstractproduct.Window;
-import tw.com.pluto.concreteproduct.MacScrollBar;
-import tw.com.pluto.concreteproduct.MacWindow;
+import tw.com.pluto.abstractfactory.abstractfactory.WidgetFactory;
+import tw.com.pluto.abstractfactory.abstractproduct.ScrollBar;
+import tw.com.pluto.abstractfactory.abstractproduct.Window;
+import tw.com.pluto.abstractfactory.concreteproduct.MacScrollBar;
+import tw.com.pluto.abstractfactory.concreteproduct.MacWindow;
 
 public class MacWidgetFactory implements WidgetFactory {
 
