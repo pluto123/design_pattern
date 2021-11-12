@@ -12,6 +12,7 @@
         <module>abstract_factory</module>
         <module>builder</module>
         <module>factory_method</module>
+        <module>singleton</module>
     </modules>
     <dependencies>
         <dependency>
@@ -29,6 +30,24 @@
         <dependency>
             <groupId>tw.com.pluto</groupId>
             <artifactId>factory_method</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>tw.com.pluto</groupId>
+            <artifactId>Unknown</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>tw.com.pluto</groupId>
+            <artifactId>Unknown</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>tw.com.pluto</groupId>
+            <artifactId>Unknown</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
